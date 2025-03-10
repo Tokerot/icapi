@@ -16,6 +16,8 @@ The **IdleClans API Tool** is a graphical user interface (GUI) application that 
 - **Export Data**: Save search results to text files.
 
 ## Installation
+
+Download the .exe from [releases](https://github.com/Tokerot/icapi/releases) or do the following.
 ### Prerequisites
 Ensure you have **Python 3.x** installed on your system. You will also need the following dependencies:
 
