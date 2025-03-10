@@ -53,3 +53,11 @@ The tool communicates with **IdleClans API** endpoints to retrieve and display d
 ## License
 This project is open-source under the **MIT License**.
 
+![Screenshot 2025-03-10 130003](https://github.com/user-attachments/assets/fe89dde0-7982-44bb-aef0-006d57f3169a)
+![Screenshot 2025-03-10 125945](https://github.com/user-attachments/assets/5281c282-cfa0-4734-9a11-42685f68def2)
+![Screenshot 2025-03-10 125906](https://github.com/user-attachments/assets/17bda515-7308-4f7d-a9af-c2a920fc4084)
+![Screenshot 2025-03-10 125849](https://github.com/user-attachments/assets/83168f0d-0ece-4817-a451-d98f1dac38e7)
+![Screenshot 2025-03-10 125822](https://github.com/user-attachments/assets/10fd7d66-924d-4d71-974a-f5de2e4aaca4)
+![Screenshot 2025-03-10 125717](https://github.com/user-attachments/assets/051e1a08-59cb-426a-8925-08d801be4351)
+![Screenshot 2025-03-10 125701](https://github.com/user-attachments/assets/d4a7b8ee-43d8-4afc-ba40-d84aaf69b1af)
+![Screenshot 2025-03-10 125655](https://github.com/user-attachments/assets/db089805-3d17-464f-9b3e-2895916ca314)
